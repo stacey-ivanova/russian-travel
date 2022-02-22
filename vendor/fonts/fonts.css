@@ -8,7 +8,7 @@
   src: local('Inter'),
     url(./Inter-Regular.woff2) format('woff2'),
     url(./Inter-Regular.woff) format('woff'),
-    url(./Inter-Regular.ttf) format('truetype')
+    url(./Inter-Regular.ttf) format('truetype');
 }
 
 @font-face {
@@ -21,7 +21,7 @@
   src: local('Inter'),
     url(./Inter-Bold.woff2) format('woff2'),
     url(./Inter-Bold.woff) format('woff'),
-    url(./Inter-Bold.ttf) format('truetype')
+    url(./Inter-Bold.ttf) format('truetype');
 }
 
 @font-face {
@@ -34,5 +34,5 @@
   src: local('Inter'),
     url(./Inter-Black.woff2) format('woff2'),
     url(./Inter-Black.woff) format('woff'),
-    url(./Inter-Black.ttf) format('truetype')
+    url(./Inter-Black.ttf) format('truetype');
 }
