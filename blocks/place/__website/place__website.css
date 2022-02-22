@@ -1,0 +1,21 @@
+.place__website {
+  align-self: end;
+  width: 100%;
+  max-width: 456px;
+  min-height: 46px;
+  color: #FFFFFF;
+}
+
+@media (max-width: 767px) {
+  .place__website {
+    max-width: 352px;
+  }
+}
+
+@media (max-width: 319px) {
+  .place__website {
+    padding-left: 16px;
+    padding-right: 16px;
+    max-width: 288px;
+  }
+}
