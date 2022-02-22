@@ -1,17 +1,17 @@
-.header__lang-link--en {
-  width: 29px;
+.header__link_lang_ru {
+  width: 30px;
   min-height: 28px;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 1.17;
   color: #FFFFFF;
-  text-decoration: none;
+  text-decoration: underline;
   text-align: right;
 }
 
 @media (max-width: 319px) {
-  .header__lang-link--en {
+  .header__link_lang_ru {
     width: 22px;
     min-height: 20px;
     font-size: 18px;
