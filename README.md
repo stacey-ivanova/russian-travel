@@ -5,7 +5,7 @@
 - [Описание](#Описание)
 - [Функциональность](#Функциональность)
 - [Используемые технологии](#Используемые_технологии)
-- [GitHub Pages](#GitHub_Pages)
+- [GitHub Pages](https://stacey-ivanova.github.io/russian-travel/)
 
 <a name="Описание">**Описание**</a>
 
