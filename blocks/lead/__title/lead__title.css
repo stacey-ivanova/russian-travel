@@ -1,7 +1,6 @@
 .lead__title {
   width: 100%;
   max-width: 720px;
-  min-height: 200px;
   margin: 0 auto 32px;
   font-style: normal;
   font-weight: 900;
@@ -11,12 +10,11 @@
   word-wrap: break-word;
 }
 
-@media (max-width: 319px) {
+@media screen and (max-width: 767px) {
   .lead__title {
     width: 100%;
-    /* max-width: 288px; */
-    /* min-height: 88px; */
-    margin: 0 auto 16px;
+    max-width: 288px;
+    margin-bottom: 16px;
     font-size: 40px;
     line-height: 1.1;
   }
