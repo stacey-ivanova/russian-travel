@@ -50,8 +50,9 @@
 
 @media screen and (max-width: 767px) {
   .cover {
+    margin-top: 39px;
     margin-bottom: 64px;
     padding-top: 33px;
-    padding-bottom: 97px;
+    padding-bottom: 33px;
   }
 }
