@@ -1,4 +1,4 @@
-.cover {
+3.cover {
   max-width: 100%;
   margin-bottom: 92px;
   width: 100%;
@@ -52,7 +52,7 @@
   .cover {
     margin-top: 39px;
     margin-bottom: 64px;
-    padding-top: 66px;
+    padding-top: 33px;
     padding-bottom: 33px;
   }
 }
