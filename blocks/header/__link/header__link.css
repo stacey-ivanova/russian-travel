@@ -6,10 +6,10 @@
   color: #ffffff;
   text-align: right;
   text-decoration: none;
+  transition: ease-in;
 }
 
 .header__link:hover {
-  transition: ease-in;
   opacity: 0.5;
 }
 
